@@ -5,11 +5,10 @@ permalink: /
 subtitle: 
 
 ---
-# LCC: Laconic Cryptography Conference
+# TPLC: Theory and Practice of Laconic Cryptography
 
 ---
-
-The first edition of the Laconic Cryptography Conference will be co-located with [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/) in  Zurich, Switzerland.  
+Theory and Practice of Laconic Cryptography Workshop will be co-located with [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/) in  Zurich, Switzerland.  
 
 ---
 
