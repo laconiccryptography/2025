@@ -9,7 +9,7 @@ subtitle:
 
 ---
 Theory and Practice of Laconic Cryptography Workshop will be co-located with [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/) in  Zurich, Switzerland.  
-
+test
 ---
 
 **Abstract:** Laconic cryptography is an emerging paradigm that enables secure computation between potentially many senders and a "laconic" receiver. Abstractly, laconic cryptography can be thought of as a *reverse delegation* paradigm, where the party that does the computation is also the one that obtains the result. The simplest form of laconic cryptography is public-key encryption, where multiple encryptors can encrypt messages to a receiver using its public key. On the other hand, more sophisticated primitives have enabled several new results such as identity-based encryption from new assumptions (CDH), two-round MPC from minimal assumptions, rate-1 oblivious transfer, and much more. In addition, techniques from laconic cryptography have been useful to build registration-based encryption (RBE), a new proposal to solve the key escrow problem in identity-based encryption.
