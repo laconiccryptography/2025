@@ -10,7 +10,6 @@ subtitle:
 ---
 
 Theory and Practice of Laconic Cryptography Workshop will be co-located with [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/) in  Zurich, Switzerland.  
-test
 
 ---
 
