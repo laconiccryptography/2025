@@ -7,10 +7,10 @@ nav_order: 3
 
 ---
 
-Pedro Branco
-Dimitris Kolonelos
-Huijia (Rachel) Lin
-Tamer Mour
-Akshay Srinivasan
-David Wu
+- Pedro Branco
+- Dimitris Kolonelos
+- Huijia (Rachel) Lin
+- Tamer Mour
+- Akshay Srinivasan
+- David Wu
 
