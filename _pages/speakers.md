@@ -1,10 +1,16 @@
 ---
 layout: page
-title: Speakers
+title: Confirmed Speakers (so far)
 permalink: /speakers
 nav: true
-nav_order: 2
+nav_order: 3
 
 ---
 
-TBD
+Pedro Branco
+Dimitris Kolonelos
+Huijia (Rachel) Lin
+Tamer Mour
+Akshay Srinivasan
+David Wu
+
