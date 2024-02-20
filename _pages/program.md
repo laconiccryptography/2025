@@ -11,25 +11,25 @@ The preliminary schedule is the following:
 
 - 8:30	Registration opens
 
-- 9:00	Welcome and Introductory Talk
-- 9:30	Keynote Talk 1
+- 9:00	Introductory Talk by Giulio Malvolta
+- 9:30	Rachel Lin (Keynote Talk)
 
 - 10:30 Coffee break
 
-- 11:00	Invited Talk 1
-- 11:30	Invited Talk 2
-- 12:00	Invited Talk 3
+- 11:00	Venkata Koppula
+- 11:30	Mohammad Hajiabadi
+- 12:00	Guru Vamsi Policharla
 
 - 12:30 Lunch break
 
-- 13:30 Keynote Talk 2
-- 14:30 Invited Talk 4
+- 13:30 David Wu (Keynote Talk)
+- 14:30 Tamer Mour
 
 - 15:00 Coffee break
 
-- 15:30 Invited Talk 5
-- 16:00 Invited Talk 6
-- 16:30 Invited Talk 7
+- 15:30 Pedro Branco
+- 16:00 Akshayaram Srinivasan
+- 16:30 Dimitris Kolonelos
 
 - 17:00 End of day  (we’ll have to clear the entire building around 17:30)
 
