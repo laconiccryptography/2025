@@ -12,7 +12,7 @@ The preliminary schedule is the following:
 - 8:30	Registration opens
 
 - 9:00	Introductory Talk by Giulio Malvolta
-- 9:30	Rachel Lin (Keynote Talk)
+- 9:30	Rachel Lin (Keynote Talk) 
 
 - 10:30 Coffee break
 
@@ -28,7 +28,7 @@ The preliminary schedule is the following:
 - 15:00 Coffee break
 
 - 15:30 Pedro Branco
-- 16:00 Akshayaram Srinivasan
+- 16:00 Akshayaram Srinivasan - Rate-1 Non-Interactive Zero-knowledge without Lattices
 - 16:30 Dimitris Kolonelos
 
 - 17:00 End of day  (we’ll have to clear the entire building around 17:30)
