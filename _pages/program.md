@@ -11,7 +11,8 @@ The preliminary schedule is the following:
 
 - 8:30	Registration opens
 
-- 9:00	Introductory Talk by Giulio Malvolta
+- 9:00	> *Introduction to Laconic Cryptography*
+	Giulio Malvolta
 - 9:30	*Attribute-Based Encryption for Circuits of Unbounded Depth from Lattices: Garbled Circuits of Optimal Size, Laconic Function Evaluation, and More*
 	Rachel Lin (Keynote Talk) 
 
