@@ -20,7 +20,7 @@ The preliminary schedule is the following:
 
 - 11:00	**CCA Security via Hinting PRGs**
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Venkata Koppula*
-- 11:30	
+- 11:30 **Laconic Function Evaluation for Branching Programs**	
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mohammad Hajiabadi*
 - 12:00	**Batched Threshold Encryption with Applications to Mempool Privacy** 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Guru Vamsi Policharla*
