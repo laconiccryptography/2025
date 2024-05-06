@@ -18,9 +18,12 @@ The preliminary schedule is the following:
 
 - 10:30 Coffee break
 
-- 11:00	*Venkata Koppula*
-- 11:30	*Mohammad Hajiabadi*
-- 12:00	*Guru Vamsi Policharla*
+- 11:00	**CCA Security via Hinting PRGs**
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Venkata Koppula*
+- 11:30	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mohammad Hajiabadi*
+- 12:00	**Batched Threshold Encryption with Applications to Mempool Privacy** 
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Guru Vamsi Policharla*
 
 - 12:30 Lunch break
 
