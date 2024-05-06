@@ -14,7 +14,7 @@ nav_order: 3
 - [Mohammad Hajiabadi](https://sites.google.com/view/mdhajiabadi/home) (University of Waterloo)
 - [Dimitris Kolonelos](https://dimkolonelos.github.io/) (IMDEA Software Institute)
 - [Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) (IIT Delhi)
-- [Tamer Mour](https://www.wisdom.weizmann.ac.il/~tamer/) (Weizmann Institute of Science)
+- [Tamer Mour](https://www.wisdom.weizmann.ac.il/~tamer/) (Università Bocconi)
 - [Guru Vamsi Policharla](https://guruvamsi-policharla.github.io/) (University of California, Berkeley)
 - [Akshay Srinivasan](https://www.cs.toronto.edu/~akshayaram/) (University of Toronto)
 
