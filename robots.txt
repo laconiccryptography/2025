@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://laconiccryptography.github.io/2025/2025/sitemap.xml
