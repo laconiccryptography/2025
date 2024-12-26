@@ -5,11 +5,11 @@ permalink: /
 subtitle: 
 
 ---
-# The Second TPLC: Theory and Practice of Laconic Cryptography
+# TPLC: Theory and Practice of Laconic Cryptography
 
 ---
 
-Theory and Practice of Laconic Cryptography Workshop will be co-located with [EUROCRYPT 2025](https://eurocrypt.iacr.org/2025/) in  Madrid, Spain scheduled for *Sunday, May 4*.  
+The Second Theory and Practice of Laconic Cryptography Workshop will be co-located with [EUROCRYPT 2025](https://eurocrypt.iacr.org/2025/) in  Madrid, Spain scheduled for *Sunday, May 4*.  
 
 ---
 
