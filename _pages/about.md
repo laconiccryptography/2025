@@ -21,6 +21,9 @@ The goal of this workshop is to bring together a broad spectrum of distinguished
 
 The first iteration of this workshop was highly successful, featuring distinguished speakers and attracting over 70 participants. Building on this momentum, this year’s workshop aims to further advance the field and foster collaboration among researchers.
 
+---
+**Past**
+- [2024](https://laconiccryptography.github.io/2024/)
 
 ---
 
