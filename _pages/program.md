@@ -23,7 +23,7 @@ The preliminary schedule is the following:
 - 12:00 **Talk**	 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Aarushi Goel*
 - 12:30	**Talk**  <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Damiano Abraham*
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Damiano Abram*
 
 - 1:00 Lunch break
 
