@@ -28,7 +28,7 @@ The preliminary schedule is the following:
 - 1:00 Lunch break
 
 - 14:15 **Talk** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhshek Jain* (Keynote Talk)
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhishek Jain* (Keynote Talk)
 - 15:15 **Talk**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speaker*
 
