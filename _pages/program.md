@@ -11,19 +11,19 @@ The preliminary schedule is the following:
 
 - 8:30	Registration opens
 
-- 9:00	**Talk 1** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speaker 1*
-- 9:30	**Keynote Talk 1** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speaker 2* (Keynote Talk) 
+- 9:00	**Keynote** <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rafi Ostrovsky* (Key Note)
+- 9:30	**Title** <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *James Bartusek* 
 
 - 10:30 Coffee break
 
-- 11:00	**Talk 2** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speaker 3*
+- 11:00	**Talk** <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Hemanta Maji*
 - 11:30 **Talk**	 <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speaker*
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Aarushi Goel*
 - 12:00	**Talk**  <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speaker*
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Damiano Abraham*
 
 - 12:30 Lunch break
 
