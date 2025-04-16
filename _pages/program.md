@@ -32,7 +32,7 @@ The preliminary schedule is the following:
 - 15:15 **Talk**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speaker*
 
-- 15:00 Coffee break
+- 15:15 Coffee break
 
 - 15:45 **Talk** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhiram Kothapalli*
