@@ -20,7 +20,7 @@ The preliminary schedule is the following:
 
 - 11:00	**Talk** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Hemanta Maji* (Keynote Talk)
-- 12:00 **Talk**	 <br>
+- 12:00 **Laconic MPC, PIR and Public-Key Operations**	 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mohammad Hajiabadi*
 - 12:30	**Talk**  <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *James Bartusek*
