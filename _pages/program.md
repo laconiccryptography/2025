@@ -22,7 +22,7 @@ The preliminary schedule is the following:
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Hemanta Maji* (Keynote Talk)
 - 12:00 **Laconic MPC, PIR and Public-Key Operations**	 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mohammad Hajiabadi*
-- 12:30	**Talk**  <br>
+- 12:30	**Laconic PSI and the Encryption Debate**  <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *James Bartusek*
 
 - 1:00 Lunch break
