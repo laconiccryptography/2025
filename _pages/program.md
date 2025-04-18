@@ -13,7 +13,7 @@ The preliminary schedule is the following:
 
 - 9:00	**Keynote** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rafi Ostrovsky* (Keynote Note)
-- 9:30	**Title** <br>
+- 9:30	**A Framework for Witness Encryption from Linearly Verifiable SNARKs** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhiram Kothapalli* 
 
 - 10:30 Coffee break
@@ -27,7 +27,7 @@ The preliminary schedule is the following:
 
 - 1:00 Lunch break
 
-- 14:15 **Talk** <br>
+- 14:15 **Succinct Obfuscation via Propositional Proofs** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhishek Jain* (Keynote Talk)
 
 - 15:15 Coffee break
