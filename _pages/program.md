@@ -18,7 +18,7 @@ The preliminary schedule is the following:
 
 - 10:30 Coffee break
 
-- 11:00	**Talk** <br>
+- 11:00	**Geometry of Secure Computation** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Hemanta Maji* (Keynote Talk)
 - 12:00 **Laconic MPC, PIR and Public-Key Operations**	 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mohammad Hajiabadi*
