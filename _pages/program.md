@@ -11,9 +11,9 @@ The preliminary schedule is the following:
 
 - 8:30	Registration opens
 
-- 9:00	**Keynote** <br>
+- 9:00	**Anonymous Permutation Routing** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rafi Ostrovsky* (Keynote Note)
-- 9:30	**A Framework for Witness Encryption from Linearly Verifiable SNARKs** <br>
+- 10:00	**A Framework for Witness Encryption from Linearly Verifiable SNARKs** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhiram Kothapalli* 
 
 - 10:30 Coffee break
