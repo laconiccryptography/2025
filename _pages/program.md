@@ -32,8 +32,8 @@ The preliminary schedule is the following:
 
 - 15:15 Coffee break
 
-- 15:45 **Talk** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+- 15:45 **Succinct Trapdoor Hash Functions and Applications** <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pedro Branco*
 - 16:15 **Multiparty Distributed Point Functions** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Aarushi Goel*
 - 16:45 **Talk**<br>
