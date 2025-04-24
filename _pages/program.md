@@ -15,6 +15,7 @@ The preliminary schedule is the following:
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rafi Ostrovsky* (Keynote Note)
 - 10:00	**Multiparty Distributed Point Functions** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Aarushi Goel*
+
 - 10:30 Coffee break
 
 - 11:00	**Geometry of Secure Computation** <br>
