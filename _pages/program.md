@@ -13,8 +13,8 @@ The preliminary schedule is the following:
 
 - 9:00	**Anonymous Permutation Routing** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rafi Ostrovsky* (Keynote Note)
-- 10:00	**Multiparty Distributed Point Functions** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Aarushi Goel*
+- 10:00	**A Framework for Witness Encryption from Linearly Verifiable SNARKs** <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhiram Kothapalli*
 
 - 10:30 Coffee break
 
@@ -27,15 +27,15 @@ The preliminary schedule is the following:
 
 - 1:00 Lunch break
 
-- 14:15 **Succinct Trapdoor Hash Functions and Applications** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pedro Branco*
-- 14:45 **A Framework for Witness Encryption from Linearly Verifiable SNARKs** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhiram Kothapalli* 
+- 14:15 **Succinct Obfuscation via Propositional Proofs** <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhishek Jain* (Keynote Talk)
 
 - 15:15 Coffee break
 
-- 15:45 **Succinct Obfuscation via Propositional Proofs** <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhishek Jain* (Keynote Talk)
+- 15:45 **Succinct Trapdoor Hash Functions and Applications** <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pedro Branco*
+- 16:15 **Multiparty Distributed Point Functions** <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Aarushi Goel*
 - 16:45 **Talk**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Damiano Abram*
 
