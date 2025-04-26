@@ -27,7 +27,7 @@ The preliminary schedule is the following:
 
 - 1:00 Lunch break
 
-- 14:15 **Succinct Obfuscation via Propositional Proofs** <br>
+- 14:15 **Succinct Obfuscation via Mathematical Proofs** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Abhishek Jain* (Keynote Talk)
 
 - 15:15 Coffee break
