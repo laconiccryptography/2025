@@ -36,7 +36,7 @@ The preliminary schedule is the following:
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pedro Branco*
 - 16:15 **Multiparty Distributed Point Functions** <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Aarushi Goel*
-- 16:45 **Talk**<br>
+- 16:45 **Laconic Function Evaluation for RAM from LWE (and How to Make it Adaptively Secure)**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Damiano Abram*
 
 - 17:15 End of day  
